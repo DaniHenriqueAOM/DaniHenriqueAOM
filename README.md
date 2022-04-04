@@ -1,7 +1,7 @@
 ### Hi, eu sou o Daniel Henrique
 
 - 🔭 Estudante da Fiap
-- 🌱 Estudando Java
+- 🌱 Cursando Análise e Desenvolvimento de Sistemas
 
   ##
 
