@@ -1,4 +1,4 @@
-### Hi, eu sou o Daniel Henrique
+### Olá, eu sou o Daniel Henrique
 
 - 🔭 Estudante da Fiap
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas
